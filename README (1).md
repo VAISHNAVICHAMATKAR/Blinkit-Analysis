@@ -48,4 +48,4 @@ This project presents an interactive **Power BI Dashboard** analyzing Blinkit's 
 
 ## 📬 Contact
 **Vaishnavi Chamatkar**  
-[LinkedIn](https://www.linkedin.com/in/vaishnavichamatkar) | [GitHub](https://github.com/vaishnavi-chamatkar)
+[LinkedIn](https://www.linkedin.com/in/vaishnavi-chamatkar-b23176296) | [GitHub](https://github.com/VAISHNAVICHAMATKAR)
