@@ -31,7 +31,7 @@ This project presents an interactive **Power BI Dashboard** analyzing Blinkit's 
 - **Data Cleaning & Transformation:** Power Query  
 
 ## 📷 Dashboard Preview
-![Blinkit Dashboard](dashboard_screenshot.png)
+![Blinkit Dashboard](Blinkit Dashboard.png)
 
 ## 📂 Repository Structure
 ```
